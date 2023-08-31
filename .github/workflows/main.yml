@@ -3,7 +3,7 @@ name: ricardolima
 on:
   push:
     branches:
-    - main
+    - develop
 
 jobs:
 
