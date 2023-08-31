@@ -1,6 +1,5 @@
 name: Ricardo
-on:
-  push:
+on: push
     branches:
     - develop
     paths:
