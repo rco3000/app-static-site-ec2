@@ -1,5 +1,4 @@
 name: Ricardo
-
 on:
   push:
     branches:
